@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-install-plugin
 Version  : 2.5.2
-Release  : 3
+Release  : 4
 URL      : https://github.com/apache/maven-install-plugin/archive/maven-install-plugin-2.5.2.tar.gz
 Source0  : https://github.com/apache/maven-install-plugin/archive/maven-install-plugin-2.5.2.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
